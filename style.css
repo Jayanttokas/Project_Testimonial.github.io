@@ -1,0 +1,32 @@
+.body{
+  padding:0px;
+  margin:0px;
+  background-color: #c3a384;
+}
+
+.container-fluid{
+  background-color:#eaedf0;
+}
+
+.col{
+  text-shadow: 4px 4px 60px 1px black;
+}
+
+.test-container{
+ height: 40vh;
+ width: 80vh;
+ border: 3px solid #363636;
+ background-color: #f7f7f7;
+}
+
+.img-style{
+  width:100px;
+  border-radius: 50%;
+  border:3px solid #363636;
+  box-shadow: 0px 0px 20px 0px black;
+}
+
+.pos{
+  position: relative;
+  bottom: 50px;
+}
